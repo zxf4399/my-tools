@@ -22,3 +22,7 @@
 - [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 
 - [bobplugin-google-translate](https://github.com/roojay520/bobplugin-google-translate) - Bob 的一个 Google 翻译插件
+
+#### 终端
+
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
