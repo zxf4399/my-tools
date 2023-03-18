@@ -23,12 +23,6 @@
 
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
-#### 命令行工具
-
-- [aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
-- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-
 #### 输入法
 
 - [squirrel](https://github.com/rime/squirrel) -【鼠鬚管】Rime for macOS
@@ -39,3 +33,14 @@
 
 - [PicGo](https://github.com/Molunerfinn/PicGo) - 🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
   - [picgo-plugin-rename-file](https://github.com/liuwave/picgo-plugin-rename-file) - A PicGo plugin for elegant file name prefix
+
+#### CLI
+
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+
+## npm
+
+### CLI
+
+- [aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
