@@ -45,3 +45,4 @@
 ### CLI
 
 - [aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
+- [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
