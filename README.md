@@ -6,6 +6,12 @@
 
 - [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
+### CLI
+
+- [brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+
 ### 软件
 
 #### 笔记
@@ -33,11 +39,6 @@
 
 - [PicGo](https://github.com/Molunerfinn/PicGo) - 🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
   - [picgo-plugin-rename-file](https://github.com/liuwave/picgo-plugin-rename-file) - A PicGo plugin for elegant file name prefix
-
-#### CLI
-
-- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 
 ## npm
 
