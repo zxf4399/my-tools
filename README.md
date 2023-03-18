@@ -27,3 +27,4 @@
 
 - [aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
