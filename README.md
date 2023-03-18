@@ -34,3 +34,8 @@
 - [squirrel](https://github.com/rime/squirrel) -【鼠鬚管】Rime for macOS
   - [rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
   - [小鹤双拼](https://www.flypy.com/) - 简洁、流畅、自由的输入体验，让打字也充满乐趣
+
+#### 图床上传
+
+- [PicGo](https://github.com/Molunerfinn/PicGo) - 🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+  - [picgo-plugin-rename-file](https://github.com/liuwave/picgo-plugin-rename-file) - A PicGo plugin for elegant file name prefix
