@@ -28,3 +28,9 @@
 - [aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+
+#### 输入法
+
+- [squirrel](https://github.com/rime/squirrel) -【鼠鬚管】Rime for macOS
+  - [rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
+  - [小鹤双拼](https://www.flypy.com/) - 简洁、流畅、自由的输入体验，让打字也充满乐趣
