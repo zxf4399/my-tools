@@ -20,6 +20,7 @@
 
 - [Obsidian](https://obsidian.md/) - Obsidian is a powerful and extensible knowledge base
   that works on top of your local folder of plain text files.
+  - [obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 
 #### 翻译
 
