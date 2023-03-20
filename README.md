@@ -42,6 +42,10 @@
 - [PicGo](https://github.com/Molunerfinn/PicGo) - 🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
   - [picgo-plugin-rename-file](https://github.com/liuwave/picgo-plugin-rename-file) - A PicGo plugin for elegant file name prefix
 
+#### 其他
+
+- [RunCat](https://kyome.io/runcat/index.html) - Cat living in the menubar(The cat tells you the CPU usage of Mac by running speed).
+
 ## npm
 
 ### CLI
