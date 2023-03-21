@@ -20,6 +20,7 @@
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
   - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
+    - [plugin-git](https://github.com/jhillyerd/plugin-git) - Git plugin for the Fish shell (similar to oh-my-zsh git)
 
 ### 软件
 
