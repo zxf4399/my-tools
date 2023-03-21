@@ -19,6 +19,7 @@
 - [brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+  - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 
 ### 软件
 
