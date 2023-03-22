@@ -5,6 +5,7 @@
 ### Cheat Sheet
 
 - [QuickRef.ME](https://quickref.me/) - Here are some cheatsheets and quick references contributed by open source angels.
+- [React](https://react.dev/) -The library for web and native user interfaces
 
 ## macOS
 
