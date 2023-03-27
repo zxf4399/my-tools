@@ -23,6 +23,7 @@
   - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
     - [plugin-git](https://github.com/jhillyerd/plugin-git) - Git plugin for the Fish shell (similar to oh-my-zsh git)
 - [tmux](https://github.com/tmux/tmux) - tmux source code
+  - [Oh my tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 
 ### 软件
 
