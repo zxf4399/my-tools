@@ -64,3 +64,6 @@
 
 - [aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
+- [eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
+  - [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
+  - [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
