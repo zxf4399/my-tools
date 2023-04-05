@@ -24,9 +24,7 @@
   - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
     - [plugin-git](https://github.com/jhillyerd/plugin-git) - Git plugin for the Fish shell (similar to oh-my-zsh git)
 - [tmux](https://github.com/tmux/tmux) - tmux source code
-
   - [Oh my tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
-
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 
 ### 软件
@@ -50,7 +48,7 @@
 #### 输入法
 
 - [squirrel](https://github.com/rime/squirrel) -【鼠鬚管】Rime for macOS
-  - [rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
+  - [rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
   - [小鹤双拼](https://www.flypy.com/) - 简洁、流畅、自由的输入体验，让打字也充满乐趣
 
 #### 图床上传
