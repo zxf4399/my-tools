@@ -69,3 +69,13 @@
 - [eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
   - [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
   - [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
+
+## 浏览器
+
+### Chrome
+
+#### 插件
+
+- [LocatorJS](https://chrome.google.com/webstore/detail/locatorjs/npbfdllefekhdplbkdigpncggmojpefi) - Click on any component in the browser to open its code in your IDE.
+  You can use it as a browser extension or as a library.
+  For React, Preact, Solid, Vue and Svelte.
