@@ -29,6 +29,10 @@
 
 ### 软件
 
+#### 音乐
+
+- [Spotify](https://www.spotify.com) - Web Player: Music for everyone
+
 #### 笔记
 
 - [Obsidian](https://obsidian.md/) - Obsidian is a powerful and extensible knowledge base
