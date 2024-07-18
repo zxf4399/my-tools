@@ -8,5 +8,9 @@
 
 ## CLI
 
-- [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+
+## Shell
+
+- [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+- [starship](https://github.com/starship/starship) - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
