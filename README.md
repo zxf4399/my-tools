@@ -14,3 +14,7 @@
 ## Shell
 
 - [starship](https://github.com/starship/starship) - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+## Terminal
+
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
