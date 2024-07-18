@@ -83,3 +83,9 @@
 - [LocatorJS](https://chrome.google.com/webstore/detail/locatorjs/npbfdllefekhdplbkdigpncggmojpefi) - Click on any component in the browser to open its code in your IDE.
   You can use it as a browser extension or as a library.
   For React, Preact, Solid, Vue and Svelte.
+
+### ChatGPT
+
+#### prompts
+
+- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
