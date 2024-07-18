@@ -9,8 +9,8 @@
 ## CLI
 
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 
 ## Shell
 
-- [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [starship](https://github.com/starship/starship) - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
